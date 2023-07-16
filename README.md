@@ -21,6 +21,14 @@ Search Bar: Add a search bar where users can enter their search queries to filte
 
 Make sure to link the appropriate event handlers to the corresponding elements in your HTML markup. You can customize the UI and styling of the app to fit your project's requirements.
 
+## Deployed Link
+https://task-management-tasky-mu.vercel.app/
+
+## Screenshots
+![Screenshot_26](https://github.com/TusharTechs/task-management-tasky/assets/56952465/e50244cc-1a45-46a2-91b8-c64cd5f36c3c)
+![Screenshot_27](https://github.com/TusharTechs/task-management-tasky/assets/56952465/181f1933-2ef2-4ec6-b015-523f362c367c)
+
+
 ## License
 This Task Management App is open source and available under the MIT License.
 
